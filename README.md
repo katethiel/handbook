@@ -1,4 +1,4 @@
-handbook
+Handbook
 ========
 
-The 100years handbook
+This is the 100years handbook, outlining our policies and employee benefits.
